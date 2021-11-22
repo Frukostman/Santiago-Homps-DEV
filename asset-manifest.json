@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Santiago-Homps-DEV/static/css/main.720683c9.chunk.css",
+    "main.js": "/Santiago-Homps-DEV/static/js/main.8ffefee2.chunk.js",
+    "main.js.map": "/Santiago-Homps-DEV/static/js/main.8ffefee2.chunk.js.map",
+    "runtime-main.js": "/Santiago-Homps-DEV/static/js/runtime-main.e114bd7d.js",
+    "runtime-main.js.map": "/Santiago-Homps-DEV/static/js/runtime-main.e114bd7d.js.map",
+    "static/js/2.ba1d9bc0.chunk.js": "/Santiago-Homps-DEV/static/js/2.ba1d9bc0.chunk.js",
+    "static/js/2.ba1d9bc0.chunk.js.map": "/Santiago-Homps-DEV/static/js/2.ba1d9bc0.chunk.js.map",
+    "static/js/3.dddc830b.chunk.js": "/Santiago-Homps-DEV/static/js/3.dddc830b.chunk.js",
+    "static/js/3.dddc830b.chunk.js.map": "/Santiago-Homps-DEV/static/js/3.dddc830b.chunk.js.map",
+    "index.html": "/Santiago-Homps-DEV/index.html",
+    "static/css/main.720683c9.chunk.css.map": "/Santiago-Homps-DEV/static/css/main.720683c9.chunk.css.map",
+    "static/js/2.ba1d9bc0.chunk.js.LICENSE.txt": "/Santiago-Homps-DEV/static/js/2.ba1d9bc0.chunk.js.LICENSE.txt",
+    "static/media/avatar.65d6e82c.png": "/Santiago-Homps-DEV/static/media/avatar.65d6e82c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e114bd7d.js",
+    "static/js/2.ba1d9bc0.chunk.js",
+    "static/css/main.720683c9.chunk.css",
+    "static/js/main.8ffefee2.chunk.js"
+  ]
+}
