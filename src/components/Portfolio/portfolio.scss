@@ -1,0 +1,11 @@
+@import '../../Globals.scss';
+
+.portfolio{
+    background-color: white;
+    padding: 5%;   
+    clip-path: polygon(0 10%, 100% 0, 100% 94%, 0 100%);
+    // background-color: $col_Dark;
+    text-align: center;
+    padding: 10%;
+}
+

@@ -1,0 +1,30 @@
+@import '../../Globals.scss';
+
+.skill{
+    cursor: default;
+    position: relative;
+    box-sizing: content-box;
+
+    font-size: $fontXL*4;
+    border-radius: 2rem;
+    color: $col_White;
+    padding:0 2rem;
+    opacity: 0.5;
+    
+    transition: all 0.5s ease 0s;
+    &:hover {
+        transform: scale(1.05);
+        opacity: 1;
+        background-color: rgba($col_Atention, 0.7);
+        // transform: rotate(5deg)
+        border: solid 1px white
+    }
+    // &_Info {
+    //     display: none;
+    //     font-family: $font_family_2;
+    //     font-size: $fontS;
+    //     font-family: $font_family_2;
+    //     font-size: $fontXS*0.8;
+        
+    // }
+}

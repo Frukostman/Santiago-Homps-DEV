@@ -1,0 +1,41 @@
+@import '../../Globals.scss';
+
+.intro{
+  //clipping
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+  height: 85vh;
+  background-color: $col_Dark;
+  text-align: center;
+}
+.down{
+  color: $col_White;
+  font-size: $fontL;
+  &:hover {
+    text-decoration: none;
+    opacity: 0.8;
+  }
+}
+.header{
+  display: flex;
+  padding: 10vh 0vw; 
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  
+    &__title {
+      color: $col_Light;
+      font-size: 100px;
+      font-family: $font_family_1;
+      font-weight: $weightXS;
+        
+      // background: 
+      // -webkit-linear-gradient(rgb(196, 36, 36), rgb(49, 67, 128));
+      // -webkit-background-clip: text;
+      // -webkit-text-fill-color: transparent;
+    }
+    &__avatar {
+      height: 35vh;
+      clip-path: circle(50% at 50% 50%);
+      margin-right: 3%;
+    }
+}

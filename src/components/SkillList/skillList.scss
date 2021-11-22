@@ -1,0 +1,19 @@
+@import '../../Globals.scss';
+
+.skills{
+    // color: white;
+    
+    clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
+    background-color: $col_Dark;
+    text-align: center;
+    padding: 15% 5% 15% 5%;
+    &_list{
+
+        padding: 0 6rem ;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 2rem;
+        font-size: $fontXL*3;
+    }
+  }

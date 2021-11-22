@@ -1,0 +1,16 @@
+@import '../../Globals.scss';
+
+.title {
+    font-size: $fontXL;
+    
+}
+.rectangle {
+    z-index: -1;
+    // background-color: $col_Atention;
+    height: 0.5rem;
+    position: relative;
+    top: -2rem;
+    left: -4rem;
+    width: 60%;
+    margin: auto;
+}
