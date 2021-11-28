@@ -2,18 +2,32 @@
 
 .skills{
     // color: white;
+
     
     clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
     background-color: $col_Dark;
     text-align: center;
     padding: 15% 5% 15% 5%;
     &_list{
-
-        padding: 0 6rem ;
+        margin: 0;
+        list-style: none;
+        padding: 3rem 15vw ;
         display: flex;
-        justify-content: center;
+        justify-content: space-evenly;
         flex-wrap: wrap;
         margin-top: 2rem;
         font-size: $fontXL*3;
     }
+  }
+
+  .circle {
+      position: absolute;
+      top: 117rem;
+      right: 25rem;
+      width: 70vh;
+      height: 70vh;
+      background: linear-gradient(270deg, $col_Atention 0%, $col_Dark 100%);
+      box-shadow: -10rem 0 20rem  $col_Atention;
+      border-radius: 50%;
+      z-index: -1;
   }

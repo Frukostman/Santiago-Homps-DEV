@@ -57,9 +57,14 @@ $col_White: white;
 // Grayscale
 $tone: 1;
 
-$col_DarkGray: rgba(0, 0, 0, $tone*0.8);
+$col_DarkGray: rgba(0, 0, 0, $tone*0.7);
 $col_MediumGray: rgba(0, 0, 0, $tone*0.5);
-$col_DarkGray: rgba(0, 0, 0, $tone*0.2);
+$col_lightGray: rgba(0, 0, 0, $tone*0.3);
+
+//whitescale
+$col_Transparent1: rgba(255, 255, 255, $tone*0.8);
+$col_Transparent2: rgba(255, 255, 255, $tone*0.5);
+$col_Transparent3: rgba(255, 255, 255, $tone*0.2);
 
 // Fonts 
 

@@ -4,11 +4,14 @@ const Skill = ({skillLogo, skillName, skillLevel}) => {
 
     return(
         <>  
-                <li className="skill">
-                    <i className={`skill_Logo ${skillLogo}`}></i>
-                    <div className="skill_Info">
-                        {/* <h5 className='skill_Name'>{skillName}</h5>
-                        <p className='skill_Level'>Level: <b>{skillLevel}</b></p> */}
+                <li>
+                    <div className="item">
+                        <div className="skill">
+                            <i className={`skill__logo ${skillLogo}`}></i>
+                        </div>
+                        <div className="skill__info">
+                            <p>{skillName}</p>
+                        </div>
                     </div>
                 </li>
             

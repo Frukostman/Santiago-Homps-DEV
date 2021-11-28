@@ -1,0 +1,48 @@
+chat con websocket
+https://websocket-s-homps.glitch.me/
+repo:
+https://github.com/Frukostman/Chat-con-Websocket
+
+Javascript
+https://frukostman.github.io/Frukost/
+repo:
+https://github.com/Frukostman/Frukost
+
+WEB:
+https://frukostman.github.io/Como-Salvar-al-Mundo/
+repo:
+https://github.com/Frukostman/Como-Salvar-al-Mundo
+
+PLAY
+https://frukostman.github.io/paginaplay/
+repo:
+https://github.com/Frukostman/paginaplay
+
+color palette
+https://frukostman.github.io/Color-Palette-Generator/
+repo:
+https://github.com/Frukostman/Color-Palette-Generator
+
+REACT
+https://coderreact-1f8c6.web.app/
+repo:
+https://github.com/Frukostman/FrukostReact
+
+BEHANCE
+aupa
+https://www.behance.net/gallery/59993669/AUPA-UX-Design
+
+gardn
+https://www.behance.net/gallery/61748063/GARDn-The-Gardening-App
+
+el palmar
+https://www.behance.net/gallery/61744059/El-Palmar-Outdoor-Badge-Challenge
+
+strom
+https://www.behance.net/gallery/62058485/STROM-WEB-REDESIGN
+
+interior renders
+https://www.behance.net/gallery/59600765/Interiors
+
+ext renders
+https://www.behance.net/gallery/59513491/Exteriors

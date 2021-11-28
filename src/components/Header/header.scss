@@ -5,6 +5,7 @@
   height: 85vh;
   background-color: $col_Dark;
   text-align: center;
+  z-index: -2;
 }
 .down{
   color: $col_White;
@@ -31,12 +32,10 @@
     }
     &__avatar {
       height: 35vh;
-      margin-right: 3%;
-      clip-path: circle(50% at 50% 50%);
-      display: inline-block;
-
-      box-shadow: -10px -10px 0px 0px red;
-      
+      width: 35vh;
+      border-radius: 50%;
+      box-shadow: 0 0 50px #ccc;
     }
   }
+
 

@@ -2,10 +2,17 @@
 
 .portfolio{
     background-color: white;
-    padding: 5%;   
-    clip-path: polygon(0 10%, 100% 0, 100% 94%, 0 100%);
-    // background-color: $col_Dark;
+    clip-path: polygon(0% 5%, 100% 0%, 100% 94%, 0 100%);
     text-align: center;
-    padding: 10%;
+    padding: 20% 0%;
 }
+.portfolio ul {
+     display: flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+     list-style: none;
+     margin: 0;
+     padding: 1rem;
+ }
+
 

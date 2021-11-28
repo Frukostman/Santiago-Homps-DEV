@@ -13,6 +13,7 @@
         margin: 0;
     }
     &__listado &__icono {
+        background-color: $col_Dark;
         z-index: 1;
         color: $col_White;
         font-size: $fontM;
@@ -23,11 +24,10 @@
         border-bottom: 1px solid rgba(255, 255, 255, 0.2);
         border-right: 1px solid rgba(255, 255, 255, 0.2);
         box-shadow: 0 5px 45px rgba(0,0,0,0.2);
-        backdrop-filter: blur(2px);
+        backdrop-filter: blur(40px);
         transition: 0.5s;
         overflow: hidden;
         &:hover {
-
             opacity: 1;
             transform: translateY(-20px);
         }

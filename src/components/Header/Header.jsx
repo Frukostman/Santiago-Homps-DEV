@@ -1,5 +1,4 @@
 import './header.scss'
-import img from '../../resources/images/avatar.png'
 
 
 const Home = () => {
@@ -8,7 +7,10 @@ const Home = () => {
         <>
             <header className="intro">
                 <div className="header">
-                    <img src={img} className="header__avatar" alt="avatar" />
+                    <div className="header__avatar">
+                        <img src={`${process.env.PUBLIC_URL}/images/avatar.jpeg`} alt="avatar" className="img-fluid image"/>
+
+                    </div>
                     <h1 className="header__title">
                         SANTIAGO <br></br><strong>HOMPS</strong>
                     </h1>
