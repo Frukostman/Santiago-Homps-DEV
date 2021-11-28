@@ -1,10 +1,16 @@
 @import '../../Globals.scss';
 
-#contact{
+.contact{
     background-color: white;
     margin: 10%;
     padding: 5%;
     text-align: center;
-
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+
 

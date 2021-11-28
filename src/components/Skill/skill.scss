@@ -55,3 +55,22 @@
         transform: skewX(45deg) translateX(-550px);
     } 
 }
+
+@media only screen and (max-width: 770px) {
+    .skill{
+        font-size: $fontXL;
+        margin: 0.2rem;
+        &__logo {
+            margin: 0.5rem;
+            padding: 0.5rem;
+        }  
+        &__info {
+            font-size: $fontXS;
+            position: relative;
+            top: -2rem;
+            color: $col_White;
+            opacity: 0;
+            transition: all 0.5s ease 0s;
+        }
+    }
+}

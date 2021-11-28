@@ -31,3 +31,26 @@
       border-radius: 50%;
       z-index: -1;
   }
+
+  @media only screen and (max-width: 770px) {
+    .skills{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        background-color: $col_Dark;
+        text-align: center;
+        padding: 5% 2% 5% 2%;
+        &_list{
+            margin: 0;
+            list-style: none;
+            padding: 1rem 5vw ;
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+            font-size: $fontXL*1;
+        }
+      }
+      .circle {
+          display: none;
+      }
+    
+}

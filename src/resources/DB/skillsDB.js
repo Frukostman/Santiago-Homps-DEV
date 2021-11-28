@@ -35,6 +35,17 @@ const skills = [
         name:'Express.js',
         level:'Comfortable'
     },
+    {
+        id: 14,
+        logo: 'devicon-mongodb-plain',
+        name:'MongoDB',
+        level:'Comfortable'
+    },    {
+        id: 15,
+        logo: 'devicon-mysql-plain',
+        name:'MySQL',
+        level:'Comfortable'
+    },
     {   
         id: 7,
         logo: 'devicon-npm-original-wordmark',

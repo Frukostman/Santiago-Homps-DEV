@@ -72,7 +72,7 @@ const projects = [
     {   
         id: 8,
         url: 'images/8-gardn.png',
-        name:"Gard'n app",
+        name:"Gard'n",
         description:'',
         link:'https://www.behance.net/gallery/61748063/GARDn-The-Gardening-App',
         repository: '',

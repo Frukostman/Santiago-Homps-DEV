@@ -11,3 +11,19 @@
     }
 }
 
+@media only screen and (max-width: 770px) {
+    .about{
+        box-shadow: 15px 15px 0 0 $col_Medium;
+        margin: 5% 5% 10%;
+        &_text {
+            font-size: $fontS;
+        }
+    }
+}
+@media only screen and (max-width: 450px) {
+    .about{
+        &_text {
+            font-size: $fontXS;
+        }
+    }
+}
