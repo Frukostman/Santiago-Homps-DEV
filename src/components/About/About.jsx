@@ -9,11 +9,11 @@ const About = () => {
             <section id="about" className="about">
                 <Title text="ABOUT" titleColor='Medium' rectangleColor='BGC_Background'/>
                 <p className="about_text">
-                    I'm a fresh Front-end developer taking his first steps into the Back-end side of life and on my way to becoming a full-MERN-stack developer. 
+                    I'm a fresh <b>Front-end developer</b> taking his first steps into the Back-end side of life and on my way to becoming a <b>full-MERN-stack</b> developer. 
                     <br></br>
                     I am always enthusiastic about new programming challenges and getting the chance to learn a new skill.
                     <br></br>
-                    I have a degree in Architecture and a strong interest in UX, design, and computer science. I started programming in HTML, CSS, and Javascript and learned SASS, Bootstrap, Bulma, EJS, WordPress, React, Jest Node.js, Express, Firebase, and MongoDB along the way.
+                    I have a degree in Architecture and a strong interest in UX, design, and computer science. I started programming in <b>HTML, CSS, and Javascript</b> and learned <b>SASS, Bootstrap, Bulma, EJS, WordPress, React, Jest Node.js, Express, Firebase, and MongoDB</b> along the way.
                     <br></br>
                     Native Spanish speaker but fluent in English and Portuguese as well. Swedish is next on the list.
                 </p>

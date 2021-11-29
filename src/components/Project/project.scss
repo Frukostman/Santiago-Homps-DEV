@@ -19,7 +19,7 @@ li:hover .project-card {
         transition: all 0.5s ease-in-out;
         z-index: 2;
         margin-bottom: 1rem;
-        opacity: 0.6;
+        opacity: 0.8;
     }
     & .project-title {
         color: $col_DarkGray;
@@ -28,7 +28,7 @@ li:hover .project-card {
     }
     & .project-info {
         color: $col_MediumGray;
-        font-size: $fontXS;
+        font-size: $fontS;
         padding: 0rem 1rem;
         // & .project-category {
         // }
@@ -38,7 +38,7 @@ li:hover .project-card {
         & .project-skills {
             font-style: italic;           
             text-align: left;
-            font-size: $fontXS*0.9;
+            font-size: $fontXS*1.2;
         }
         
     }
@@ -47,7 +47,7 @@ li:hover .project-card {
         justify-content: center;
         font-size: $fontS*0.9;
         cursor: pointer;
-        opacity: 0.7;
+        opacity: 0.9;
         transition: all 0.5s ease-in-out;
         & .button-repo {
             display: flex;
@@ -72,6 +72,37 @@ li:hover .project-card {
         }
         &:hover {
             opacity: 1;
+        }
+    }
+}
+
+@media only screen and (max-width: 770px) {
+
+    li:hover .project-card {      
+        transform: translateY(-0.5rem);
+    }
+    .project-card {
+        margin: 0.5rem 0.2rem;
+        border-radius: 1%;
+        & .project-title {
+            color: $col_DarkGray;
+            font-family: $font_family_2;
+            font-weight: 700;
+            padding: 0.5rem;
+        }
+        & .project-info {
+            display: none;
+        }
+    }
+    
+}
+@media only screen and (max-width: 450px) {
+    .project-card {
+        font-weight: 500;
+        width: 40vw;
+        margin: 0.6rem 0.2rem;
+        & .project-title {
+            padding: 0.2rem;
         }
     }
 }

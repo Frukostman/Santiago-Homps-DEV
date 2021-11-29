@@ -4,14 +4,14 @@
     // color: white;
 
     
-    clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
-    background-color: $col_Dark;
+    // clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
+    // background-color: $col_Dark;
     text-align: center;
-    padding: 15% 5% 15% 5%;
+    padding: 5%;
     &_list{
         margin: 0;
         list-style: none;
-        padding: 3rem 15vw ;
+        padding: 2rem ;
         display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
@@ -22,10 +22,10 @@
 
   .circle {
       position: absolute;
-      top: 117rem;
-      right: 25rem;
-      width: 70vh;
-      height: 70vh;
+      top: 100rem;
+      right: 5rem;
+      width: 50vw;
+      height: 50vw;
       background: linear-gradient(270deg, $col_Atention 0%, $col_Dark 100%);
       box-shadow: -10rem 0 20rem  $col_Atention;
       border-radius: 50%;
@@ -35,7 +35,7 @@
   @media only screen and (max-width: 770px) {
     .skills{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-        background-color: $col_Dark;
+        // background-color: $col_Dark;
         text-align: center;
         padding: 5% 2% 5% 2%;
         &_list{

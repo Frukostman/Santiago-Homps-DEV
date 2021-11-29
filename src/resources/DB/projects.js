@@ -2,7 +2,7 @@ const projects = [
     {   
         id: 1,
         url: 'images/1-como-salvar-al-mundo.png',
-        name:'Como Salvar Al Mundo',
+        name:'CSaM',
         description:'',
         link:'https://frukostman.github.io/Como-Salvar-al-Mundo/',
         repository: 'https://github.com/Frukostman/Como-Salvar-al-Mundo',
@@ -52,7 +52,7 @@ const projects = [
     {   
         id: 6,
         url: 'images/6-chat.png',
-        name:'WebSocket Chat',
+        name:'WS Chat',
         description:'',
         link:'https://websocket-s-homps.glitch.me/',
         repository: 'https://github.com/Frukostman/Chat-con-Websocket',
@@ -92,7 +92,7 @@ const projects = [
     {   
         id: 10,
         url: 'images/10-palmar.png',
-        name:'Palmar Badge',
+        name:'El Palmar',
         description:'',
         link:'https://www.behance.net/gallery/61744059/El-Palmar-Outdoor-Badge-Challenge',
         repository: '',
