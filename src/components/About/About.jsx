@@ -13,7 +13,7 @@ const About = () => {
                     <br></br>
                     I am always enthusiastic about new programming challenges and getting the chance to learn a new skill.
                     <br></br>
-                    I have a degree in Architecture and a strong interest in UX, design, and computer science. I started programming in <b>HTML, CSS, and Javascript</b> and learned <b>SASS, Bootstrap, Bulma, EJS, WordPress, React, Jest Node.js, Express, Firebase, and MongoDB</b> along the way.
+                    I have a degree in Architecture and a strong interest in UX, design, and computer science. I started programming in <b>HTML, CSS, and Javascript</b> and learned <b>SASS, Bootstrap, Bulma, EJS, WordPress, React, Jest, Node.js, Express, Firebase, and MongoDB</b> along the way.
                     <br></br>
                     Native Spanish speaker but fluent in English and Portuguese as well. Swedish is next on the list.
                 </p>

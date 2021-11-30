@@ -35,7 +35,7 @@ const Contact = () => {
                     </form>
                 </div>
                 <div className="top">
-                    <a href="navbar">
+                    <a href="#navbar">
                         <i className="fas fa-arrow-alt-circle-up up" ></i>
                     </a>
                 </div>
