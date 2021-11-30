@@ -9,6 +9,7 @@ const Home = () => {
                 <div className="header">
                     <div className="header__avatar">
                         <img src={`${process.env.PUBLIC_URL}/images/avatar.jpeg`} alt="avatar" className="img-fluid image"/>
+                   
 
                     </div>
                         <h1 className="header__title">

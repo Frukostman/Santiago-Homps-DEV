@@ -40,10 +40,17 @@ const skills = [
         logo: 'devicon-mongodb-plain',
         name:'MongoDB',
         level:'Comfortable'
-    },    {
+    },    
+    {
         id: 15,
         logo: 'devicon-mysql-plain',
         name:'MySQL',
+        level:'Comfortable'
+    },
+    {
+        id: 16,
+        logo: 'devicon-jest-plain',
+        name:'JEST',
         level:'Comfortable'
     },
     {   

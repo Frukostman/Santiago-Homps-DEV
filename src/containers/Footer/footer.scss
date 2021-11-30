@@ -1,7 +1,7 @@
 @import '../../Globals.scss';
 
 .footer {
-    background-color: $col_Dark;
+    background-color: $col_Background;
     height: auto; 
     border-top: 1px solid rgba(255, 255, 255, 0.1);   
     padding-top: 0.5rem;
@@ -13,7 +13,7 @@
         margin: 0;
     }
     &__listado &__icono {
-        background-color: $col_Dark;
+        background-color: $col_Background;
         z-index: 1;
         color: $col_White;
         font-size: $fontM;

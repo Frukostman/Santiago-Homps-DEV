@@ -11,7 +11,7 @@ const SkillList = () => {
         <>
             <section id="skills" className="skills">
                     <div className="circle"></div>
-                <Title text="SKILLS" titleColor='White' rectangleColor='BGC_Atention'/>
+                <Title text="SKILLS" titleColor='White' rectangleColor='BGC_Light'/>
                 <ul className="skills_list">
                     {skillDB.map((item) => {
                         return (

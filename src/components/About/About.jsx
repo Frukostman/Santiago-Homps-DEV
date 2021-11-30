@@ -7,7 +7,7 @@ const About = () => {
     return(
         <>
             <section id="about" className="about">
-                <Title text="ABOUT" titleColor='Medium' rectangleColor='BGC_Background'/>
+                <Title text="ABOUT" titleColor='Light' rectangleColor='BGC_Background'/>
                 <p className="about_text">
                     I'm a fresh <b>Front-end developer</b> taking his first steps into the Back-end side of life and on my way to becoming a <b>full-MERN-stack</b> developer. 
                     <br></br>

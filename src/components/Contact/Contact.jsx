@@ -6,7 +6,8 @@ const Contact = () => {
 
     const success = () => {
             Swal.fire(
-            'Thanks!'
+            'Thanks!',
+            'I´ll be in touch soon!'
             )
             window.scrollTo(0, 0);
     }

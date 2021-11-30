@@ -1,13 +1,23 @@
 /* GLOBAL VARIABLES */
 
 // Colors
-$col_Atention: #E63946;
-$col_Background: #F1FAEE;
-$col_Light: #A8DADC;
-$col_Medium: #457B9D;
-$col_Dark: #1D3557;
+$col_Atention: #08FDD8;
+$col_Background: #1D1D1D;
+$col_Light: #FD2155;
+$col_Medium: #ececec;
+$col_Dark: #181818;
 $col_Black: black;
 $col_White: white;
+
+// // Colors viejos
+// $col_Atention: #E63946;
+// $col_Background: #F1FAEE;
+// $col_Light: #A8DADC;
+// $col_Medium: #457B9D;
+// $col_Dark: #1D3557;
+// $col_Black: black;
+// $col_White: white;
+
 
 // Colors classes
 .Atention {
@@ -113,7 +123,7 @@ html {
     
 }
 body {
-    background: linear-gradient(90deg, $col_Atention 0%, $col_Dark 45%);
+    background: linear-gradient(60deg, $col_Background 65%, $col_Atention 120%);
 }
 a , i {
     text-decoration: none;
