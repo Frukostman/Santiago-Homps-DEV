@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Santiago-Homps-DEV/static/css/main.bc7d7f8d.chunk.css",
-    "main.js": "/Santiago-Homps-DEV/static/js/main.07702418.chunk.js",
-    "main.js.map": "/Santiago-Homps-DEV/static/js/main.07702418.chunk.js.map",
+    "main.css": "/Santiago-Homps-DEV/static/css/main.c26e1ea0.chunk.css",
+    "main.js": "/Santiago-Homps-DEV/static/js/main.f21544c7.chunk.js",
+    "main.js.map": "/Santiago-Homps-DEV/static/js/main.f21544c7.chunk.js.map",
     "runtime-main.js": "/Santiago-Homps-DEV/static/js/runtime-main.40b5c555.js",
     "runtime-main.js.map": "/Santiago-Homps-DEV/static/js/runtime-main.40b5c555.js.map",
     "static/js/2.a0b56a14.chunk.js": "/Santiago-Homps-DEV/static/js/2.a0b56a14.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.4d15628c.chunk.js": "/Santiago-Homps-DEV/static/js/3.4d15628c.chunk.js",
     "static/js/3.4d15628c.chunk.js.map": "/Santiago-Homps-DEV/static/js/3.4d15628c.chunk.js.map",
     "index.html": "/Santiago-Homps-DEV/index.html",
-    "static/css/main.bc7d7f8d.chunk.css.map": "/Santiago-Homps-DEV/static/css/main.bc7d7f8d.chunk.css.map",
+    "static/css/main.c26e1ea0.chunk.css.map": "/Santiago-Homps-DEV/static/css/main.c26e1ea0.chunk.css.map",
     "static/js/2.a0b56a14.chunk.js.LICENSE.txt": "/Santiago-Homps-DEV/static/js/2.a0b56a14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40b5c555.js",
     "static/js/2.a0b56a14.chunk.js",
-    "static/css/main.bc7d7f8d.chunk.css",
-    "static/js/main.07702418.chunk.js"
+    "static/css/main.c26e1ea0.chunk.css",
+    "static/js/main.f21544c7.chunk.js"
   ]
 }
