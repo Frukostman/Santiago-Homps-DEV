@@ -17,6 +17,12 @@ const About = () => {
                     <br></br>
                     Native Spanish speaker but fluent in English and Portuguese as well. Swedish is next on the list.
                 </p>
+                <div className="about_button">
+                    <a href={`${process.env.PUBLIC_URL}/cv/CV - Santiago Homps 2021.pdf`} target="blank">
+                            Download Resume
+                    </a>
+
+                </div>
 
             </section>
         </>

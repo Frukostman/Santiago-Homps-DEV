@@ -21,7 +21,7 @@ const Project = ({projectN}) => {
                                 {projectN.repository ? 
                                      <a href={projectN.repository} target="blank" className="button-repo">Repo</a>
                                      : ""}
-                                <a href={projectN.link} target="blank" className="button-link">Link</a>
+                                    <a href={projectN.link} target="blank" className="button-link">Link</a>
                             </div>
                         </div>
                     

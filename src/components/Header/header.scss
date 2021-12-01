@@ -6,35 +6,48 @@
   background-color: $col_Dark;
   text-align: center;
   z-index: -2;
-  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
+
 .down{
   color: $col_White;
   font-size: $fontL;
   opacity: 0.6;
+  transition: all 1s ease-in-out;
   &:hover {
     text-decoration: none;
-    transition: 1s ease-in-out;
     transform: scale(1.1);
     opacity: 1;
+    color: $col_Light;
   }
 }
 .header{
   display: flex;
-  padding: 3vh 0vw; 
+  padding: 3vw 0vw; 
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  
-  &__title {
-    color: $col_Medium;
-    font-size: $fontXL*3;
-    font-family: $font_family_1;
-    font-weight: $weightM;
+  &__info {
     text-align: left;
-    text-shadow: 0.2rem 0.2rem 0px $col_Light;
+    & .title {
+      color: $col_Medium;
+      font-size: $fontXL*3;
+      font-family: $font_family_1;
+      font-weight: $weightM;
+      text-align: left;
+      text-shadow: 0.2rem 0.2rem 0px $col_Light;
     }
-    &__avatar {
+    & .data {
+      font-size: $fontL;
+      color: $col_Atention;
+      font-family: $font_family_4;
+      opacity: 0.6;
+        
+      }
+
+  }
+  
+  &__avatar {
       height: 45vh;
       width: 45vh;
       margin-right: 5rem;

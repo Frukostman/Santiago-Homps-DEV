@@ -83,6 +83,12 @@ const skills = [
         name:'Bulma',
         level:'Comfortable'
     },
+    {
+        id: 17,
+        logo: 'devicon-wordpress-plain',
+        name:'Wordpress',
+        level:'Comfortable'
+    },
 
     {
         id: 12,

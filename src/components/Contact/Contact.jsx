@@ -11,6 +11,10 @@ const Contact = () => {
             )
             window.scrollTo(0, 0);
     }
+    const goUp = () => {
+
+            window.scrollTo(0, 0);
+    }
 
     return (
         <>
@@ -34,12 +38,11 @@ const Contact = () => {
                         <input className="form-button" type="submit" value="SEND" id="btnSubmit" onClick={() => success()}></input>                   
                     </form>
                 </div>
-                <div className="top">
-                    <a href="#navbar">
+                    <a onClick={() => goUp()}>
                         <i className="fas fa-arrow-alt-circle-up up" ></i>
                     </a>
-                </div>
             </section>
+                
         </>
     )
 

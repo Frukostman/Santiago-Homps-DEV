@@ -9,12 +9,13 @@
 .up{
     color: $col_Dark;
     font-size: $fontL;
-    opacity: 0.6;
+    opacity: 0.3;
+    transition:all 1s ease-in-out;
     &:hover {
-      text-decoration: none;
-      transition: 1s ease-in-out;
-      transform: scale(1.1);
-      opacity: 1;
+        color: $col_Atention;
+        text-decoration: none;
+        transform: scale(1.1);
+        opacity: 1;
     }
   }
 
