@@ -74,7 +74,7 @@ const skills = [
     {   
         id: 9,
         logo: 'devicon-bootstrap-plain',
-        name:'Bootsrapp',
+        name:'Bootstrap',
         level:'Comfortable'
     },
     {
